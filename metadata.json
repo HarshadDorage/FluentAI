@@ -1,0 +1,7 @@
+{
+  "name": "FluentAI - English Practice",
+  "description": "An AI-powered English speaking practice platform using Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
